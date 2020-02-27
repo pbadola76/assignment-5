@@ -1,0 +1,2 @@
+I believe merge Sort would be the best to use in this situation because its runtime is exponentially faster 
+than the other sorting algorithms. It is able to sort huge numbers with ease.
