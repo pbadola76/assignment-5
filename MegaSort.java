@@ -4,6 +4,7 @@ import java.io.*;
 
 public class MegaSort
 {
+    //Used merge sort
     public static void sort(int [] arr)
     {
         sort(arr, 0, arr.length-1);
